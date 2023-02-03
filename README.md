@@ -26,4 +26,4 @@ Usage
 
 • Run: npm start
 
-If you want to use a prototype of the project you can download the Course Goal.apk from the repository.
+If you want to use a prototype of the project you can download the Course App.apk from the repository.
