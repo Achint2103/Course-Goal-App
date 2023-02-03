@@ -21,6 +21,8 @@ Install Dependencies
 
 • npx install expo // expo install
 
+If you dont have the expo cli then install expo cli by: npm install -g expo-cli
+
 
 Usage
 
