@@ -1,7 +1,8 @@
 # Course-Goal-App
 
 
-![Screenshot_2023-02-03-19-06-54-69_09fda4deecb069525dd199c530066c13](https://user-images.githubusercontent.com/87437738/216617146-b4ee3c06-9bb4-4bd2-b350-70c318c980bd.jpg)
+![Screenshot_2023-02-03-19-06-54-69_09fda4deecb069525dd199c530066c13](https://user-images.githubusercontent.com/87437738/216619053-4f2afe4e-2793-4c96-aed3-14fc82508018.jpg)
+
 
 
 ![Screenshot_2023-02-03-19-06-58-32_09fda4deecb069525dd199c530066c13](https://user-images.githubusercontent.com/87437738/216617198-4fed3871-23c5-41a7-adfd-fd02d0be94d4.jpg)
