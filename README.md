@@ -28,4 +28,6 @@ Usage
 
 • Run: npm start
 
-If you want to use a prototype of the project you can download the Course App.apk from the repository.
+If you want to use a prototype of the project then you can download from the following link:
+
+https://github.com/Achint2103/Course-Goal-App/blob/main/Course%20App.apk
